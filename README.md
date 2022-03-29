@@ -1,6 +1,6 @@
 # Introduction
 
-This package is the fork of: https://github.com/epiphone/class-validator-jsonschema
+This package is a fork of: https://github.com/epiphone/class-validator-jsonschema
 
 Forked to update the peer dependencies. 
 
