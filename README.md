@@ -1,3 +1,9 @@
+# Introduction
+
+This package is the fork of: https://github.com/epiphone/class-validator-jsonschema
+
+Forked to update the peer dependencies. 
+
 # class-validator-jsonschema
 
 [![codecov](https://codecov.io/gh/epiphone/class-validator-jsonschema/branch/master/graph/badge.svg)](https://codecov.io/gh/epiphone/class-validator-jsonschema) [![npm version](https://badge.fury.io/js/class-validator-jsonschema.svg)](https://badge.fury.io/js/class-validator-jsonschema)
